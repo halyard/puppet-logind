@@ -1,0 +1,15 @@
+{
+  "name": "halyard-logind",
+  "version": "0.0.1",
+  "author": "Les Aker",
+  "license": "MIT",
+  "summary": "Configure logind on a systemd system",
+  "source": "https://github.com/halyard/puppet-logind",
+  "project_page": "https://github.com/halyard/puppet-logind",
+  "issues_url": "https://github.com/halyard/puppet-logind/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+  ]
+}
